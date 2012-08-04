@@ -1,0 +1,8 @@
+ * better log coverage
+ * implement max message size for fragmented messages
+ * implement better connection close codes
+ * periodic pings of idle connection
+ * resizable input buffer
+ * input body streaming
+ * output body streaming (incl. chunked transfer encoding)
+ * chunked input encoding (maybe?)
