@@ -1,0 +1,41 @@
+libwebsite (0.2.22-1) precise; urgency=low
+
+  * New ubuntu release
+
+ -- Paul Colomiets (tailhook) <paul@colomiets.name>  Sat, 04 Aug 2012 18:30:57 +0300
+
+libwebsite (0.2.22) oneiric; urgency=low
+
+  * Various upstream bugfixes and enhancements
+
+ -- Paul Colomiets (tailhook) <paul@colomiets.name>  Sat, 04 Aug 2012 18:30:57 +0300
+
+libwebsite (0.2.18.3.g73716e3-5) oneiric; urgency=low
+
+  * Fixed install-time dependencies
+
+ -- Paul <paul@colomiets.name>  Wed, 26 Oct 2011 00:24:30 +0300
+
+libwebsite (0.2.18.3.g73716e3-4) oneiric; urgency=low
+
+  * Temporarily added git as dependency
+
+ -- Paul <paul@colomiets.name>  Wed, 26 Oct 2011 00:24:30 +0300
+
+libwebsite (0.2.18.3.g73716e3-3) oneiric; urgency=low
+
+  * Removed git folder from source
+
+ -- Paul <paul@colomiets.name>  Wed, 26 Oct 2011 00:24:30 +0300
+
+libwebsite (0.2.18.3.g73716e3-2) oneiric; urgency=low
+
+  * Fixed dependencies
+
+ -- Paul <paul@colomiets.name>  Wed, 26 Oct 2011 00:24:30 +0300
+
+libwebsite (0.2.18.3.g73716e3-1) oneiric; urgency=low
+
+  * Initial release
+
+ -- Paul <paul@colomiets.name>  Wed, 26 Oct 2011 00:24:30 +0300

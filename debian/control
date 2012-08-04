@@ -1,0 +1,16 @@
+Source: libwebsite
+Priority: extra
+Maintainer: Paul Colomiets <paul@colomiets.name>
+Build-Depends: debhelper (>= 8.0.0), cdbs, libev-dev, libssl-dev, git
+Standards-Version: 3.9.2
+Section: libs
+Homepage: http://github.com/tailhook/libwebsite
+Vcs-Git: git://github.com/tailhook/libwebsite.git
+Vcs-Browser: http://github.com/tailhook/libwebsite
+
+Package: libwebsite-dev
+Section: libdevel
+Architecture: any
+Depends: libev-dev, libssl-dev
+Description: tiny and fast http/websocket library
+

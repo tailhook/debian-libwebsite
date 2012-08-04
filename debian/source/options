@@ -1,0 +1,1 @@
+extend-diff-ignore=\.waf.*|.*\.tar\.bz2|\.git|\.pc|build
